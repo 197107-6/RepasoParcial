@@ -1,9 +1,9 @@
  
-def leer_datos1(): 
+def leer_datos(): 
     print("Problema 1: función para leer las calificaciones") 
  
-def calcular1(): 
+def calcular(): 
     print("Problema 1: función para calcular el promedio") 
  
-def mostrar_resultado1(): 
+def mostrar_resultado(): 
     print("Problema 1: función para mostrar el promedio")
